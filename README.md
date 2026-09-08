@@ -20,7 +20,7 @@
 
 <!-- ─── BADGES ─── -->
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/PhantomToolkit">
+  <a href="https://github.com/H3X-ApexAutomation/PhantomToolkit">
     <img src="https://img.shields.io/badge/Version-2.0.0-ff69b4?style=for-the-badge&logo=github" alt="Version" />
   </a>
   <a href="https://termux.com">
@@ -29,13 +29,13 @@
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-FFD700?style=for-the-badge" alt="License" />
   </a>
-  <a href="https://github.com/sponsors/YOUR_USERNAME">
+  <a href="https://github.com/sponsors/H3X-ApexAutomation">
     <img src="https://img.shields.io/badge/Sponsor-GitHub-FF1493?style=for-the-badge&logo=githubsponsors" alt="Sponsor" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/PhantomToolkit/stargazers">
-    <img src="https://img.shields.io/github/stars/YOUR_USERNAME/PhantomToolkit?style=for-the-badge&logo=github&color=yellow" alt="Stars" />
+  <a href="https://github.com/H3X-ApexAutomation/PhantomToolkit/stargazers">
+    <img src="https://img.shields.io/github/stars/H3X-ApexAutomation/PhantomToolkit?style=for-the-badge&logo=github&color=yellow" alt="Stars" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/PhantomToolkit/network/members">
+  <a href="https://github.com/H3X-ApexAutomation/PhantomToolkit/network/members">
     <img src="https://img.shields.io/github/forks/YOUR_USERNAME/PhantomToolkit?style=for-the-badge&logo=github&color=blue" alt="Forks" />
   </a>
 </p>
