@@ -36,13 +36,13 @@
     <img src="https://img.shields.io/github/stars/H3X-ApexAutomation/PhantomToolkit?style=for-the-badge&logo=github&color=yellow" alt="Stars" />
   </a>
   <a href="https://github.com/H3X-ApexAutomation/PhantomToolkit/network/members">
-    <img src="https://img.shields.io/github/forks/YOUR_USERNAME/PhantomToolkit?style=for-the-badge&logo=github&color=blue" alt="Forks" />
+    <img src="https://img.shields.io/github/forks/H3X-ApexAutomation/PhantomToolkit?style=for-the-badge&logo=github&color=blue" alt="Forks" />
   </a>
 </p>
 
 <!-- ─── VISITOR COUNT ─── -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=9B59B6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=H3X-ApexAutomation&label=Profile%20Views&color=9B59B6&style=flat-square" alt="Profile Views" />
 </p>
 
 </div>
