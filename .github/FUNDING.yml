@@ -1,0 +1,41 @@
+# ─── PHANTOM TOOLKIT FUNDING CONFIG ───
+# This file tells GitHub where to send sponsors and donations
+
+# ─── GitHub Sponsors (Primary) ───
+# This is the main way to get recurring funding
+github: [YOUR_USERNAME]
+
+# ─── Patreon (Recurring Subscriptions) ───
+patreon: YOUR_USERNAME
+
+# ─── Open Collective (Community Funding) ───
+open_collective: phantom-toolkit
+
+# ─── Ko-fi (One-Time Donations) ───
+ko_fi: YOUR_USERNAME
+
+# ─── Tidelift (Enterprise Support) ───
+tidelift: pypi/phantom-toolkit
+
+# ─── Community Bridge (CNCF) ───
+community_bridge: phantom-toolkit
+
+# ─── Liberapay (Recurring Donations) ───
+liberapay: YOUR_USERNAME
+
+# ─── IssueHunt (Fund Issues) ───
+issuehunt: YOUR_USERNAME
+
+# ─── Otechie (Paid Support) ───
+otechie: YOUR_USERNAME
+
+# ─── LFX (Linux Foundation Mentorship) ───
+lfx_crowdfunding: phantom-toolkit
+
+# ─── Custom Links ───
+# These appear as buttons on your GitHub sponsor page
+custom:
+  - https://buymeacoffee.com/YOUR_USERNAME
+  - https://paypal.me/YOUR_USERNAME
+  - https://www.youtube.com/@YOUR_USERNAME
+  - https://yourwebsite.com/donate
